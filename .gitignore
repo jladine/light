@@ -1,0 +1,6 @@
+*.pyc
+media/
+bower_components/
+*.css
+*.map
+db.sqlite3
